@@ -1,4 +1,4 @@
----
+level---
 id: cluster-level-failover
 title: Configure cluster-level failover
 sidebar_label: "Configure cluster-level failover"
